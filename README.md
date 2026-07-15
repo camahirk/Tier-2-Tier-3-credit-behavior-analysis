@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # 📊 Beyond CIBIL: Understanding Credit Behaviour in Tier-2 & Tier-3 India
+
+> A behavioural analysis of 50 anonymized retail credit bureau profiles to understand borrower behaviour, repayment patterns, underwriting observations and fintech opportunities.# 📊 Beyond CIBIL: Understanding Credit Behaviour in Tier-2 & Tier-3 India
 
 > A behavioural analysis of **50 anonymized retail credit bureau profiles** to understand borrower behaviour, repayment patterns, underwriting observations and fintech opportunities.
 
